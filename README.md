@@ -22,6 +22,17 @@ PNW Solutions helps businesses build and grow with open source software. We spec
 - [Node.js](https://nodejs.org/) - Server-side JavaScript runtime
 - And many more open source tools and frameworks
 
+## Tech Ecosystem
+
+The broader stack of tools and services that power our operations:
+
+- **Hosting**: [Hostinger](https://www.hostinger.com/)
+- **CRM**: [EspoCRM](https://www.espocrm.com/)
+- **Automation**: [n8n](https://n8n.io/)
+- **Database**: [MariaDB](https://mariadb.org/)
+- **Analytics**: [Umami](https://umami.is/) or [Plausible CE](https://plausible.io/) (TBD)
+- **Project Management**: [ClickUp](https://clickup.com/)
+
 ## Website Features
 
 - **Performance Optimized** - Lightning-fast loading times with modern build tools
