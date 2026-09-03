@@ -1,46 +1,15 @@
 # PNW Solutions
 
+> ⚠️ **Site down for maintenance.** Re-releasing **September 9th**.
+
 ## Open Source Development & Consulting
 
-Empowering businesses through open source software solutions. We specialize in modern web development, community-driven innovation, and helping enterprises leverage the power of open source technologies.
-
-## TODO
-
-FIND TODO APP FOR GIT INEGRATION
-
--[ ] Move away from google fonts, download ones to use. Or what is the preferred method for accesibility?
--[ ] Mv favicon from public to src
-
-### Refactoring
-
--[ ] Update to use 'dark:prose-invert'
-
-### TBD
-
--[ ] **Add carousel component to reviews.astro**
--[ ] Update contact page
-   -[ ] Add to top, schedule 15min free btn
--[ ] Add to app.cal
-   -[x] Digital Consultation
-   -[ ] Web Design Package
-      - Digital Consultation
-      - Web Design Planning
-      - Product Delivery
-   -[ ] Digital Resouce Management
-   -[ ] SECRET EVENT Website Update
-
--[ ] Add unlinked page for digital services
-   -[ ] Add schedulable services
-      -[ ] Digital Consultation
-      -[ ] Web Design Package
-      -[ ] Digital Resource Management (If you need updates to a site I did not build)
-   -[ ] Create link to app.cal
+PNW Solutions helps businesses build and grow with open source software. We specialize in modern web development, community-driven innovation, and helping enterprises leverage the power of open source technologies.
 
 ## 🌟 What We Do
 
 - **Web Development Consulting** - Expert guidance on modern frameworks, architecture, and best practices
 - **Enterprise Solutions** - Helping businesses adopt and integrate open source tools
-- **Community Education** - Sharing knowledge through our blog and community initiatives
 
 ## Tech Stack
 
@@ -105,9 +74,8 @@ Smooth, purposeful animations enhance user experience:
 
 ## 📞 Get In Touch
 
-- **Website**: [pnwdigitalsolutions.com](https://pnwdigitalsolutions.com)
+- **Website**: [pnwdigitalsolutions.org](https://pnwdigitalsolutions.org)
 - **E-mail** [hello@pnwdigitalsolutions.com](mailto:hello@pnwdigitalsolutions.com)
-- **Blog**: [/blog](/blog)
 - **GitHub**: [@zothsu](https://github.com/zothsu)
 
 ## 📝 License
